@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Connecting Choices: How Transportation Networks Shape Consumer Behavior</title>
   <meta name="citation_title" content="Connecting Choices: How Transportation Networks Shape Consumer Behavior and Regional Markets">
   <meta name="citation_author" content="Dr. N. Balasubramanian">
   <meta name="citation_author" content="Mr. Sabir Mujawar">

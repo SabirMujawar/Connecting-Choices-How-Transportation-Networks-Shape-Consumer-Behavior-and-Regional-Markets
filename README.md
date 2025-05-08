@@ -30,7 +30,7 @@
  <p><strong>Orcid Id: </strong>https://orcid.org/0009-0008-6765-2886</p>
     <p><strong>DOI:</strong> <a href="https://doi.org/10.55248/gengpi.6.0425.1526" target="_blank">https://doi.org/10.55248/gengpi.6.0425.1526</a></p>
    <p><strong>Citation:</strong> Mujawar, Sabir. (2025). Connecting Choices: How Transportation Networks Shape Consumer Behavior and Regional Markets. International Journal of Research Publication and Reviews. 6. 8194-8196. 10.55248/gengpi.6.0425.1526.</p>
-   <p><strong>Google Scholar Profile:</strong> <a href="https://scholar.google.com/citations?user=C2UZwIwAAAAJ&hl=en"></a></p>
+   <p><strong>Google Scholar Profile:</strong> <a href="https://scholar.google.com/citations?user=C2UZwIwAAAAJ&hl=en">Profile Link</a></p>
   <p><a href="https://ijrpr.com/uploads/V6ISSUE4/IJRPR42611.pdf" download>Download Full PDF</a></p>
 </body>
 </html>
